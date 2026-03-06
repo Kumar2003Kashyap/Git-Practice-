@@ -10,5 +10,12 @@ public class hello {
 
     public void msg(){
         System.out.println("msg user");
+
     }
+     public void new(){
+        System.out.println("new user");
+
+    }
+     
+    
 }
